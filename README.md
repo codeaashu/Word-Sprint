@@ -12,7 +12,7 @@
   <h4 align="center">✦ Not just a game ✦</h4>
   
   ` Word Sprint is an exciting and fast-paced game designed to test and improve your typing speed and accuracy. In this game, you are presented with a list of words that you must type correctly before the timer runs out. The goal is to type all the words as quickly as possible to score the highest points. `<hr>
-  <hr><img src="./public/Word Sprint Mockup.png"/>
+  <hr><img src="./Word Sprint Mockup.png"/>
 
   ` functionalities 🌟 `
 </div>
