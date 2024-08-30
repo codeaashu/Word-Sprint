@@ -8,11 +8,10 @@
 <hr>
   <h1 align="center">✦ Introducing to  Word Sprint Game ✦</h1>
   <img src="./LOGO.png" width="100px" />
-  <br><a href="https://word-sprint.vercel.app/"><strong>✦ Play The Word Game ✦</strong></a><br><br>
-  <h4 align="center">✦ Not just a game ✦</h4>
+  <br><a href="https://word-sprint.vercel.app/"><strong>✦ Play the game & remember it's not just a game ✦</strong></a><br><br>
   
   ` Word Sprint is an exciting and fast-paced game designed to test and improve your typing speed and accuracy. In this game, you are presented with a list of words that you must type correctly before the timer runs out. The goal is to type all the words as quickly as possible to score the highest points. `<hr>
-  <hr><img src="./Word Sprint Mockup.png"/>
+  <img src="./Word Sprint Mockup.png"/>
 
   ` functionalities 🌟 `
 </div>
