@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Word-Sprint)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Word-Sprint?style=social) 
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Word-Sprint?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 
 <hr>
   <h1 align="center">✦ Introducing to  Word Sprint Game ✦</h1>
@@ -40,6 +40,17 @@
 We hope you have fun playing the Classic Jigsaw Puzzle Game. If you have any feedback or suggestions, feel free to share them with us. Happy puzzling!
 
 `Don't forget to give A star to this repository ⭐`
+
+---
+
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
+
 
 
 `👍🏻 All Set! 💌`
