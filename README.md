@@ -41,6 +41,10 @@ We hope you have fun playing the Classic Jigsaw Puzzle Game. If you have any fee
 
 `Don't forget to give A star to this repository ⭐`
 
+`👍🏻 All Set! 💌`
+
+</div>
+
 ---
 
 Cooked by aashuu ✦ (Ashutosh Kumar)<br>
@@ -51,8 +55,3 @@ I build tech businesses through SaaS products across every layer of the internet
 Connect here:<br>
 Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
 
-
-
-`👍🏻 All Set! 💌`
-
-</div>
